@@ -1,6 +1,6 @@
 # PVFlow
 
-> A pharmacovigilance workflow management platform designed to replace spreadsheet-based tracking of Individual Case Safety Reports (ICSRs) with structured workflows, automated validation, and audit-ready case management.
+> PVflow is a newly developed pharmacovigilance workflow management platform designed to replace spreadsheet-based tracking of Individual Case Safety Reports (ICSRs) with structured workflows, automated validation, and audit-ready case management.
 
 ---
 
